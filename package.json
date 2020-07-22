@@ -1,0 +1,17 @@
+{
+  "name": "cordova-pnp-seuic-plugin",
+  "version": "1.0.0",
+  "description": "cordova pnp seuic plugin to scan barcode using native seuic scanner",
+  "cordova": {
+    "id": "cordova-pnp-seuic-plugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Jacinto Joao",
+  "license": "ISC"
+}
