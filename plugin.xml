@@ -9,7 +9,7 @@
     <platform name="android">
         <config-file parent="/*" target="res/xml/config.xml">
             <feature name="PnPSeuicPlugin">
-                <param name="android-package" value="cordova.pnp.seuic.plugin.PnPSeuicPlugin" />
+                <param name="android-package" value="cordova/pnp/seuic/plugin/PnPSeuicPlugin" />
             </feature>
         </config-file>
         <config-file parent="/*" target="AndroidManifest.xml"></config-file>

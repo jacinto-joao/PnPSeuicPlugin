@@ -1,4 +1,4 @@
-package com.seuic.js;
+package cordova.pnp.seuic.plugin;
 
 import android.os.Bundle;
 import android.util.Log;
